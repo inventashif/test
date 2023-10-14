@@ -1,2 +1,2 @@
-echo "mew"
-[click](javascript:alert();)
+echo "mew"<h1>hello</h1>
+<img src=x>
